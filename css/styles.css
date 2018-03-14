@@ -13,6 +13,8 @@ div {
 }
 
 .blog-post {
+  margin-top: 5px;
+  margin-bottom: 5px;
   color: white;
   background-color: #003333;
 }
