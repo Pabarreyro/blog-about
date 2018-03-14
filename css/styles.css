@@ -18,3 +18,13 @@ div {
   color: white;
   background-color: #003333;
 }
+
+@media screen and (min-width: 300px) and (max-width:480px) {
+  div {
+    width: 90vw;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+
+}
